@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**sebastian1695/sebastian1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am sowing my seeds in order to harvest success
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning how to code on java, js, css 
 
