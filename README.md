@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am sowing my seeds in order to harvest success
+**I am sowing my seeds in order to harvest success**
 
 
 - 🌱 I’m currently learning how to code on java, js, css 
